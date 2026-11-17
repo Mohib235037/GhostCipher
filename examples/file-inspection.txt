@@ -1,0 +1,2 @@
+GhostCipher synthetic file inspection sample.
+The example flag is PCCP{local_example}.
